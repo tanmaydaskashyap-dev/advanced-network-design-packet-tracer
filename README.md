@@ -44,9 +44,6 @@ This project demonstrates a multi-network architecture using:
 * Successful ping between all networks
 * Failover tested using HSRP
 
-## 📷 Screenshots
-
-(Add your images here)
 
 ## ▶️ How to Run
 
