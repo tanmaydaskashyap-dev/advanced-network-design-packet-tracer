@@ -52,6 +52,13 @@ This project demonstrates a multi-network architecture using:
 1. Open the .pkt file in Cisco Packet Tracer
 2. Use simulation mode to observe packet flow
 3. Test connectivity using ping
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
 
 ## 👨‍💻 Author
 
