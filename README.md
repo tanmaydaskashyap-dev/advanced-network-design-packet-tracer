@@ -1,5 +1,5 @@
 # advanced-network-design-packet-tracer
-Futuristic network design lab showcase.png
+![Banner](Futuristic network design lab showcase.png) 
 # Advanced Network Design using Cisco Packet Tracer
 
 ## 📌 Project Overview
