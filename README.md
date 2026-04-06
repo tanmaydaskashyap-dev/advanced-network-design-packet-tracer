@@ -1,7 +1,8 @@
 # Advanced Network Design using Cisco Packet Tracer
 
-![Banner](banner3.png) 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanmaydaskashyap-dev/advanced-network-design-packet-tracer/main/banner2.png" width="100%" />
+</p>
 
 ## 📌 Project Overview
 
