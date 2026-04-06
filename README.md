@@ -1,6 +1,6 @@
 # Advanced Network Design using Cisco Packet Tracer
 
-
+![Banner](banner2.png) 
 
 
 ## 📌 Project Overview
